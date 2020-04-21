@@ -1,0 +1,27 @@
+
+步骤：
+1.
+$ tar -zxf scons-2.3.4.tar.gz  
+$ cd scons-2.3.4 
+$ sudo python setup.py install 
+
+2.
+$ sudo apt-get install rar unrar
+$ unrar x jsoncpp-src-0.5.0.rar  
+$ cd jsoncpp-src-0.5.0 
+$ scons platform=linux-gcc 
+$ sudo cp ./libs/linux-gcc-x.x/* /usr/local/lib
+$ sudo cp -r ./include/json /usr/local/include/
+
+3.
+$ cd /usr/local/lib
+$ sudo mv libjson_linux-gcc-x.x_libmt.a libjson.a
+$ sudo mv libjson_linux-gcc-x.x_libmt.so libjson.so
+
+4. 
+$ cd /etc/
+$ sudo vim ./ld.so.conf
+	在ld.so.conf文件末尾添加路径 /usr/local/lib
+$ sudo ldconfig 
+ 
+
