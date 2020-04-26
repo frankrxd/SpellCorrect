@@ -1,0 +1,8 @@
+2020-04-26 12:48:57,070 SpellCorrect [WARN] hello,warn,100
+2020-04-26 12:48:57,070 SpellCorrect [ERROR] hello,error,200
+2020-04-26 14:52:54,921 SpellCorrect [WARN] hello,warn,100
+2020-04-26 14:52:54,922 SpellCorrect [ERROR] hello,error,200
+2020-04-26 14:52:54,922 SpellCorrect [INFO]  @±›þ hello
+2020-04-26 14:53:15,840 SpellCorrect [WARN] hello,warn,100
+2020-04-26 14:53:15,840 SpellCorrect [ERROR] hello,error,200
+2020-04-26 14:53:15,840 SpellCorrect [INFO] yes hello
