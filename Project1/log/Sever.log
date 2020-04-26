@@ -35,3 +35,90 @@
 2020-04-21 17:26:24,946 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
 2020-04-21 17:26:29,946 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
 2020-04-21 17:26:34,946 [WARN] [src/CacheManager.cpp:periodcUpdate:45] No cache to update in this period.
+2020-04-24 19:26:06,966 [INFO] [src/MainServer.cpp:start:28] Server Started
+2020-04-24 19:26:07,232 [INFO] [src/MyDict.cpp:init:11] Dict Initializei.
+2020-04-24 19:26:07,234 [INFO] [src/CacheManager.cpp:initCache:7] The main Cache was initialize.
+2020-04-24 19:26:07,234 [WARN] [./include/WorkerThread.h:WorkerThread:20] A new workerthread was created.
+2020-04-24 19:26:07,234 [WARN] [./include/WorkerThread.h:WorkerThread:20] A new workerthread was created.
+2020-04-24 19:26:07,234 [WARN] [./include/WorkerThread.h:WorkerThread:20] A new workerthread was created.
+2020-04-24 19:26:07,234 [WARN] [./include/WorkerThread.h:WorkerThread:20] A new workerthread was created.
+2020-04-24 19:27:01,944 [INFO] [src/MainServer.cpp:start:28] Server Started
+2020-04-24 19:27:02,219 [INFO] [src/MyDict.cpp:init:11] Dict Initializei.
+2020-04-24 19:27:02,219 [INFO] [src/CacheManager.cpp:initCache:7] The main Cache was initialize.
+2020-04-24 19:27:02,219 [WARN] [./include/WorkerThread.h:WorkerThread:20] A new workerthread was created.
+2020-04-24 19:27:02,219 [WARN] [./include/WorkerThread.h:WorkerThread:20] A new workerthread was created.
+2020-04-24 19:27:02,219 [WARN] [./include/WorkerThread.h:WorkerThread:20] A new workerthread was created.
+2020-04-24 19:27:02,219 [WARN] [./include/WorkerThread.h:WorkerThread:20] A new workerthread was created.
+2020-04-24 19:27:07,219 [WARN] [src/CacheManager.cpp:periodcUpdate:38] No cache to update in this period.
+2020-04-24 19:27:12,219 [WARN] [src/CacheManager.cpp:periodcUpdate:38] No cache to update in this period.
+2020-04-24 19:27:15,266 [INFO] [src/MainServer.cpp:onConnection:9] 192.168.0.103:8888 -> 192.168.0.103:53830 The link was established.
+2020-04-24 19:27:15,266 [WARN] [src/TcpConnection.cpp:send:53] Message sent through socket 8
+2020-04-24 19:27:17,219 [WARN] [src/CacheManager.cpp:periodcUpdate:38] No cache to update in this period.
+2020-04-24 19:27:17,416 [WARN] [src/CacheManager.cpp:getCache:20] A new Cache was mapped to a thread.
+2020-04-24 19:27:17,416 [WARN] [src/TcpConnection.cpp:send:53] Message sent through socket 8
+2020-04-24 19:27:17,535 [INFO] [src/MainServer.cpp:onClose:23] 192.168.0.103:8888 -> 192.168.0.103:53830 close.
+2020-04-24 19:27:22,219 [WARN] [src/CacheManager.cpp:periodcUpdate:38] No cache to update in this period.
+2020-04-24 19:27:27,219 [WARN] [src/CacheManager.cpp:periodcUpdate:38] No cache to update in this period.
+2020-04-24 19:27:27,890 [INFO] [src/MainServer.cpp:onConnection:9] 192.168.0.103:8888 -> 192.168.0.103:53832 The link was established.
+2020-04-24 19:27:27,890 [WARN] [src/TcpConnection.cpp:send:53] Message sent through socket 8
+2020-04-24 19:27:29,459 [WARN] [src/CacheManager.cpp:getCache:20] A new Cache was mapped to a thread.
+2020-04-24 19:27:29,459 [WARN] [src/TcpConnection.cpp:send:53] Message sent through socket 8
+2020-04-24 19:27:29,553 [INFO] [src/MainServer.cpp:onClose:23] 192.168.0.103:8888 -> 192.168.0.103:53832 close.
+2020-04-24 19:27:32,219 [WARN] [src/CacheManager.cpp:periodcUpdate:38] No cache to update in this period.
+2020-04-24 19:27:33,025 [INFO] [src/MainServer.cpp:onConnection:9] 192.168.0.103:8888 -> 192.168.0.103:53834 The link was established.
+2020-04-24 19:27:33,025 [WARN] [src/TcpConnection.cpp:send:53] Message sent through socket 8
+2020-04-24 19:27:34,671 [WARN] [src/CacheManager.cpp:getCache:20] A new Cache was mapped to a thread.
+2020-04-24 19:27:34,885 [WARN] [src/TcpConnection.cpp:send:53] Message sent through socket 8
+2020-04-24 19:27:34,977 [INFO] [src/MainServer.cpp:onClose:23] 192.168.0.103:8888 -> 192.168.0.103:53834 close.
+2020-04-24 19:27:37,219 [WARN] [src/CacheManager.cpp:periodcUpdate:80] 1 cache on disk updated.
+2020-04-24 19:27:42,807 [INFO] [src/MainServer.cpp:start:28] Server Started
+2020-04-24 19:27:43,073 [INFO] [src/MyDict.cpp:init:11] Dict Initializei.
+2020-04-24 19:27:43,073 [INFO] [src/CacheManager.cpp:initCache:7] The main Cache was initialize.
+2020-04-24 19:27:43,073 [WARN] [./include/WorkerThread.h:WorkerThread:20] A new workerthread was created.
+2020-04-24 19:27:43,073 [WARN] [./include/WorkerThread.h:WorkerThread:20] A new workerthread was created.
+2020-04-24 19:27:43,073 [WARN] [./include/WorkerThread.h:WorkerThread:20] A new workerthread was created.
+2020-04-24 19:27:43,073 [WARN] [./include/WorkerThread.h:WorkerThread:20] A new workerthread was created.
+2020-04-24 19:27:45,851 [INFO] [src/MainServer.cpp:onConnection:9] 192.168.0.103:8888 -> 192.168.0.103:53836 The link was established.
+2020-04-24 19:27:45,851 [WARN] [src/TcpConnection.cpp:send:53] Message sent through socket 8
+2020-04-24 19:27:47,848 [WARN] [src/CacheManager.cpp:getCache:20] A new Cache was mapped to a thread.
+2020-04-24 19:27:47,848 [WARN] [src/TcpConnection.cpp:send:53] Message sent through socket 8
+2020-04-24 19:27:47,945 [INFO] [src/MainServer.cpp:onClose:23] 192.168.0.103:8888 -> 192.168.0.103:53836 close.
+2020-04-24 19:27:48,073 [WARN] [src/CacheManager.cpp:periodcUpdate:38] No cache to update in this period.
+2020-04-24 19:27:53,073 [WARN] [src/CacheManager.cpp:periodcUpdate:38] No cache to update in this period.
+2020-04-24 19:27:58,073 [WARN] [src/CacheManager.cpp:periodcUpdate:38] No cache to update in this period.
+2020-04-24 19:28:03,073 [WARN] [src/CacheManager.cpp:periodcUpdate:38] No cache to update in this period.
+2020-04-24 19:28:06,425 [INFO] [src/MainServer.cpp:onConnection:9] 192.168.0.103:8888 -> 192.168.0.103:53838 The link was established.
+2020-04-24 19:28:06,425 [WARN] [src/TcpConnection.cpp:send:53] Message sent through socket 8
+2020-04-24 19:28:08,073 [WARN] [src/CacheManager.cpp:periodcUpdate:38] No cache to update in this period.
+2020-04-24 19:28:09,397 [WARN] [src/CacheManager.cpp:getCache:20] A new Cache was mapped to a thread.
+2020-04-24 19:28:10,171 [WARN] [src/TcpConnection.cpp:send:53] Message sent through socket 8
+2020-04-24 19:28:10,263 [INFO] [src/MainServer.cpp:onClose:23] 192.168.0.103:8888 -> 192.168.0.103:53838 close.
+2020-04-24 19:28:12,618 [INFO] [src/MainServer.cpp:onConnection:9] 192.168.0.103:8888 -> 192.168.0.103:53840 The link was established.
+2020-04-24 19:28:12,618 [WARN] [src/TcpConnection.cpp:send:53] Message sent through socket 8
+2020-04-24 19:28:13,073 [WARN] [src/CacheManager.cpp:periodcUpdate:80] 1 cache on disk updated.
+2020-04-24 19:28:15,745 [WARN] [src/CacheManager.cpp:getCache:20] A new Cache was mapped to a thread.
+2020-04-24 19:28:16,147 [WARN] [src/TcpConnection.cpp:send:53] Message sent through socket 8
+2020-04-24 19:28:16,238 [INFO] [src/MainServer.cpp:onClose:23] 192.168.0.103:8888 -> 192.168.0.103:53840 close.
+2020-04-24 19:28:17,774 [INFO] [src/MainServer.cpp:onConnection:9] 192.168.0.103:8888 -> 192.168.0.103:53842 The link was established.
+2020-04-24 19:28:17,774 [WARN] [src/TcpConnection.cpp:send:53] Message sent through socket 8
+2020-04-24 19:28:18,073 [WARN] [src/CacheManager.cpp:periodcUpdate:80] 1 cache on disk updated.
+2020-04-24 19:28:20,029 [WARN] [src/CacheManager.cpp:getCache:20] A new Cache was mapped to a thread.
+2020-04-24 19:28:20,029 [WARN] [src/TcpConnection.cpp:send:53] Message sent through socket 8
+2020-04-24 19:28:20,124 [INFO] [src/MainServer.cpp:onClose:23] 192.168.0.103:8888 -> 192.168.0.103:53842 close.
+2020-04-24 19:28:23,073 [WARN] [src/CacheManager.cpp:periodcUpdate:38] No cache to update in this period.
+2020-04-24 19:28:56,484 [INFO] [src/MainServer.cpp:start:28] Server Started
+2020-04-24 19:28:56,748 [INFO] [src/MyDict.cpp:init:11] Dict Initializei.
+2020-04-24 19:28:56,749 [INFO] [src/CacheManager.cpp:initCache:7] The main Cache was initialize.
+2020-04-24 19:28:56,749 [WARN] [./include/WorkerThread.h:WorkerThread:20] A new workerthread was created.
+2020-04-24 19:28:56,749 [WARN] [./include/WorkerThread.h:WorkerThread:20] A new workerthread was created.
+2020-04-24 19:28:56,749 [WARN] [./include/WorkerThread.h:WorkerThread:20] A new workerthread was created.
+2020-04-24 19:28:56,749 [WARN] [./include/WorkerThread.h:WorkerThread:20] A new workerthread was created.
+2020-04-24 19:29:01,749 [WARN] [src/CacheManager.cpp:periodcUpdate:38] No cache to update in this period.
+2020-04-24 19:29:06,749 [WARN] [src/CacheManager.cpp:periodcUpdate:38] No cache to update in this period.
+2020-04-24 19:29:10,907 [INFO] [src/MainServer.cpp:onConnection:9] 192.168.0.103:8888 -> 192.168.0.103:53844 The link was established.
+2020-04-24 19:29:10,907 [WARN] [src/TcpConnection.cpp:send:53] Message sent through socket 8
+2020-04-24 19:29:11,749 [WARN] [src/CacheManager.cpp:periodcUpdate:38] No cache to update in this period.
+2020-04-24 19:29:13,020 [WARN] [src/CacheManager.cpp:getCache:20] A new Cache was mapped to a thread.
+2020-04-24 19:29:13,394 [WARN] [src/TcpConnection.cpp:send:53] Message sent through socket 8
+2020-04-24 19:29:13,486 [INFO] [src/MainServer.cpp:onClose:23] 192.168.0.103:8888 -> 192.168.0.103:53844 close.
+2020-04-24 19:29:16,749 [WARN] [src/CacheManager.cpp:periodcUpdate:80] 1 cache on disk updated.
