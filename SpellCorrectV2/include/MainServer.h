@@ -45,7 +45,7 @@ public:
 
         if(reply->type == 1)
         {
-            LogInfo("redis server hit cache!  [request:%s] [response:%s]",_request.c_str(),reply->str);
+            LogInfo("redis server hit cache! [request:%s] [response:%s]",_request.c_str(),reply->str);
             result = reply->str;
             freeReplyObject(reply);
             return result;
@@ -70,7 +70,7 @@ public:
         string setRedis;
         setRedis.append("set ").append(_request).append(" ").append(result);
         redisCommand(_redisconn,setRedis.c_str());
-        LogInfo("redis server cache update! [response:%s]",result.c_str());
+        LogInfo("redis server cache update! [request:%s] [response:%s]",_request.c_str(),result.c_str());
         return result;
     }
 private:
